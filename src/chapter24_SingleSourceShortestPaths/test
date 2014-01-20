@@ -1,0 +1,38 @@
+BellmanFord算法测试数据
+10
+s t 6
+s y 7
+t x 5
+t y 8
+t z -4
+x t -2
+y x -3
+y z 9
+z s 2
+z x 7
+
+DAG单源最短路径测试数据
+10
+r s 5
+r t 3
+s t 2
+s x 6
+t x 7
+t y 4
+t z 2
+x y -1
+x z 2
+y z -2
+
+Dijkstra算法
+10
+s t 10
+s y 5
+t x 1
+t y 2
+x z 4
+z x 6
+z s 7
+y x 9
+y z 2
+y t 3
